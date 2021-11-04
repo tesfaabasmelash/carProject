@@ -6,7 +6,7 @@ public class Main {
 
         newcar.name = "Lamboo";
         newcar.engineCapacity ="45678cc";
-        newcar.doors = 7;
+        newcar.doors = 6;
         newcar.model = "Aventador";
         newcar.color = "Red";
 
